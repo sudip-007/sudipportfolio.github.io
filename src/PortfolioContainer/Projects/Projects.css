@@ -1,0 +1,36 @@
+.abc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}.main-box{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 40px;
+}
+.box-contain{
+    height: 400px;
+    width: 260px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+.button{
+    display: flex;
+    margin: 10px;
+}
+.box-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+.box-description{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: royalblue;
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
